@@ -1,3 +1,4 @@
+// Nav Button on Mobile Devices
 const btn = document.getElementById('menu-btn')
 const nav = document.getElementById('menu')
 
@@ -24,3 +25,80 @@ btn.addEventListener('click', () => {
     function goToTop() {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
+
+// jQuery Form Validation Methods
+    $(document).ready(function() {
+        $('#applicationForm').validate({
+            rules:{
+                firstName:{
+                    required:true,
+                    minlength: 2
+                },
+                lastName:{
+                    required:true,
+                    minlength: 2
+                },
+                phone:{
+                    required:true,
+                    minlength: 10,
+                    maxlength: 10,
+                    digits: true
+                },
+                email:{
+                    required:true,
+                    email:true
+                },
+                bondAmount:{
+                    required:true,
+                    digits: true,
+                    minlength: 6
+                }
+            },
+            messages: {
+                firstName: {
+                    required: "Please enter your first name",
+                    minlength: "Name at least 2 characters"
+                },
+                lastName: {
+                    required: "Please enter your last name",
+                    minlength: "Name at least 2 characters"
+                },
+                phone: {
+                    required: "Please enter your phone number",
+                    minlength: "Please enter a 10 digit number",
+                    digits: "Enter numbers only please"
+                },
+                email: {
+                    required: "Please enter your email",
+                    email: "Not a valid email address"
+                },
+                bondAmount: {
+                    required: "Please enter your bond amount",
+                    digits: "Please enter numbers only",
+                    minlength: "Please enter at least six figures"
+                }
+            },    
+            
+            submitHandler: function(form) {
+            form.submit();
+            }
+        });
+        $('#subscriberForm').validate({
+            rules:{
+                subscriber:{
+                    required:true,
+                    email:true
+                }
+            },
+            messages: {
+                subscriber:{
+                    required: "Please enter your email",
+                    email: "Not a valid email address"
+                }
+            },    
+            
+            submitHandler: function(form) {
+            form.submit();
+            }
+        });
+    });
