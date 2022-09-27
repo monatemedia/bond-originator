@@ -2,7 +2,7 @@
 
 Manage is a project built as a lead magnet for bond originators to help them attract more clients. 
 
-The live website can be viewed here: [manage.monatemedia.com](manage.monatemedia.com)
+The live website can be viewed here: [https://manage.monatemedia.com/](https://manage.monatemedia.com/)
 
 ## Concept
 
