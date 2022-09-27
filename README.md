@@ -66,5 +66,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ![Monatemedia Logo](https://www.monatemedia.com/wp-content/uploads/2021/08/Monate-Media-Logo-Large-Square.png)
 
 Developer: Edward Baitsewe<br>
+Email: [edward@monatemedia.com](edward@monatemedia.com)<br>
 Website: [www.monatemedia.com](https://www.monatemedia.com)<br>
 LinkedIn: [https://www.linkedin.com/in/edwardbaitsewe/](https://www.linkedin.com/in/edwardbaitsewe/)
