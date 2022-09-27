@@ -1,4 +1,4 @@
-# Manage Bond Originator
+# Manage Bond Originator Lead Magnet
 
 Manage is a project built as a lead magnet for bond originators to help them attract more clients. 
 
