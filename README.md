@@ -1,6 +1,6 @@
-# Bond Originator User Interface
+# Manage Bond Originator
 
-Bond Originator is a project built as a lead magnet for bond originators, helping them attract more clients.
+Manage is a project built as a lead magnet for bond originators to help them attract more clients. 
 
 The live website can be viewed here: [manage.monatemedia.com](manage.monatemedia.com)
 
@@ -8,7 +8,13 @@ The live website can be viewed here: [manage.monatemedia.com](manage.monatemedia
 
 The client wants a sleek and simple, but custom built, mobile responsive website to market their services to potential clients on the internet. 
 
-The written copy for the website is content that I had written orignally for a facebook post explaining how to buy property. 
+The written copy for the website is content that I had written orignally for a facebook post explaining how to buy property. That information is presented here with the intention of converting visitors into leads.
+
+> A lead magnet is a marketing term for a free item or service that is given away for the purpose of gathering contact details; for example, lead magnets can be trial subscriptions, samples, white papers, e-newsletters, and free consultations. Marketers use lead magnets to create sales leads. The marketers attempt to convert the leads into paying customers of a product or service, or they may market unrelated offerings to the sales leads. – Investopedia
+
+## Copy and Content
+
+The written copy for the website is content that I had written for a Facebook post explaining how to buy property. I’ve decided to make the code and content freely available for use. You do not need to credit me to use this code or content in your own website. You will find the link to download the app in the GitHub repository in the footer of the project.  
 
 The website consists of: 
 * an introductory landing page; 
@@ -20,10 +26,10 @@ The website consists of:
 
 This website is built with:
 * HTML
-* CSS with Tailwind CSS
-* Javascript
-* Python with Pandas and Streamlit
-* Free .svg and .png picture files
+* CSS with Tailwind CSS for styling
+* Javascript with jQuery and jQuery Validation
+* Python with Pandas and Streamlit (Mortgage Calculator)
+* Free .svg and .png picture files from the internet
 
 ## Installation on Local Environment
 
@@ -59,6 +65,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ![Monatemedia Logo](https://www.monatemedia.com/wp-content/uploads/2021/08/Monate-Media-Logo-Large-Square.png)
 
-Developer: Edward Baitsewe
-Website: [www.monatemedia.com](https://www.monatemedia.com)
+Developer: Edward Baitsewe<br>
+Website: [www.monatemedia.com](https://www.monatemedia.com)<br>
 LinkedIn: [https://www.linkedin.com/in/edwardbaitsewe/](https://www.linkedin.com/in/edwardbaitsewe/)
